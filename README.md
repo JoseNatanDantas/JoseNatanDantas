@@ -9,7 +9,5 @@
 <div>
 <a href="https://www.linkedin.com/in/natan-dantas-b33ba0210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
-
-![Snake animation](https://github.com/NatanDantas/NatanDantas/blob/output/github-contribution-grid-snake.svg)
-  
+          
 [![](https://visitcount.itsvg.in/api?id=JoseNatanDantas&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
