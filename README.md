@@ -3,12 +3,7 @@
 
 - Analista de TI na Claro Brasil / Currently i'm a IT Analyst at Claro Brasil
 - Cursando Análise e Desenvolvimento de Sistemas no Senac - 4° Semestre / Currently attending to System Analysis and Development course on the fourth semester
-
-### 🧑‍💻Tecnologias e Ferramentas / Technologies and IT Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
           
-
 ### Contatos:
 
 <div>
