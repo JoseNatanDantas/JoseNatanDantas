@@ -15,12 +15,6 @@
 <a href="https://www.linkedin.com/in/natan-dantas-b33ba0210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
 
-<div>
-<a href="https://github.com/NatanDantas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseNatanDantas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseNatanDantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ![Snake animation](https://github.com/NatanDantas/NatanDantas/blob/output/github-contribution-grid-snake.svg)
   
 [![](https://visitcount.itsvg.in/api?id=JoseNatanDantas&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
